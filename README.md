@@ -16,6 +16,9 @@
 ![Nest](https://img.shields.io/badge/nestjs-090909?style=for-the-badge&logo=nestjs&logoColor=df3d87)
 ![Webpack](https://img.shields.io/badge/webpack-090909?style=for-the-badge&logo=webpack)
 ![Git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+![Next](https://img.shields.io/badge/next.js-090909?style=for-the-badge&logo=next.js)
+![Node](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node.js)
+![Nodemon](https://img.shields.io/badge/nodemon-090909?style=for-the-badge&logo=nodemon)
 
 ### Follow me:
 [![Linkedin](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=077ad9)](https://www.linkedin.com/in/dmitry-gaydamovich-893118199/)
@@ -24,8 +27,6 @@
 
 [//]: # (![Twitter]&#40;https://img.shields.io/badge/twitter-090909?style=for-the-badge&logo=twitter&logoColor=blue&#41;)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaydamovich&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/Gaydamovich)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaydamovich&theme=highcontrast&layout=compact)](https://github.com/Gaydamovich)
-
