@@ -3,9 +3,9 @@
 ## I`m a Software Engineer
 
 ### About me:
-> Experience - 4 years+. 
+> Experience - 4 years+
 > 
-> At the moment I work in the Kufar company.
+> At the moment I work in the Kufar company
 
 ### Languages and Tools:
 ![JS](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
