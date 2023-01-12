@@ -47,6 +47,6 @@
 [![VK](https://img.shields.io/badge/vk-090909?style=for-the-badge&logo=vk&logoColor=3b9dd9)](https://vk.com/id185653550)
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaydamovich&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/Gaydamovich)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Gaydamovich&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/Gaydamovich)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaydamovich&theme=highcontrast&layout=compact)](https://github.com/Gaydamovich)
