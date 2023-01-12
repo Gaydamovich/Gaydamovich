@@ -1,4 +1,4 @@
-![Header](./assets/background.png)
+![Header](./assets/img.png)
 
 ## I`m a Software Engineer
 
