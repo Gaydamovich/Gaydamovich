@@ -5,7 +5,7 @@
 ### About me:
 > Experience - 5 years
 > 
-> English - A2 | In progress ...
+> English - A2 | In progress
 >
 > Projects and companies:
 > - Sber
@@ -49,4 +49,4 @@
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Gaydamovich&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/Gaydamovich)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaydamovich&theme=highcontrast&layout=compact)](https://github.com/Gaydamovich)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaydamovich&theme=highcontrast&layout=compact)](https://github.com/Gaydamovich)
