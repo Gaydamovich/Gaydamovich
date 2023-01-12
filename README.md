@@ -1,11 +1,11 @@
-![Header](./assets/img.jpeg)
+![Header](./assets/img_1.jpeg)
 
 ## I`m a Software Engineer
 
 ### About me:
 > Experience - 4 years+
 >
-> I work in the Kufar company
+> I work in the Kufar
 
 ### Languages and Tools:
 ![JS](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
